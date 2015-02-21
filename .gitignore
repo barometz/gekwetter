@@ -1,0 +1,11 @@
+# Emacs noise
+*~
+*#
+
+# Nikola output and artifacts
+
+.doit.db
+output/
+cache/
+
+*.pyc

@@ -1,0 +1,42 @@
+#social-links img {
+    max-height: 22px;
+    margin-left: 11px;
+    margin-right: 11px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 3em;
+    font-size: small;
+}
+
+.navbar-brand {
+    padding: 12px 15px;
+}
+
+img.aside {
+    float: left;
+    width: 50px;
+    margin-left: -65px;
+    margin-right: 5px;
+}
+
+h2 > a, h3 > a, h4 > a {
+    color: #222;
+}
+
+h2 > a:hover, h3 > a:hover, h4 > a:hover {
+    text-decoration: none;
+}
+
+table.personalia {
+    max-width: 50em;
+    font-size: inherit;
+}
+
+table ul, table ol {
+    padding-left: 1.5em;
+}
