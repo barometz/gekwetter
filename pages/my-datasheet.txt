@@ -55,3 +55,9 @@ Various projects I've worked on.
 	
 .. |quill| image:: /datasheet/quill.png
    :class: aside
+
+.. |mortarboard| image:: /datasheet/mortarboard.png
+   :class: aside
+
+.. |wrench| image:: /datasheet/wrench.png
+   class: aside
