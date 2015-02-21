@@ -50,3 +50,9 @@ table ul, table ol {
 .metadata {
     font-size: small;
 }
+
+ul.tags {
+    display: inline;
+    margin-left: 0;
+    padding-left: 0;
+}
