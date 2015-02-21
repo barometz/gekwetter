@@ -443,10 +443,7 @@ RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_rea
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = """<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-<img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" 
-    title="Licensed under CC Attribution-ShareAlike 4.0" />
-</a>"""
+LICENSE = """(<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons, Attribution-ShareAlike 4.0">CC-BY-SA</a>)"""
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
 # LICENSE = """
@@ -481,8 +478,9 @@ SOCIAL_LINKS = "\n".join([social_link.format(**item) for item in social_list])
 CONTENT_FOOTER = """<div id="social-links"> 
 {social}
 </div> <!-- #social-links --> 
-Contents &copy; {date} {author} - {license} - Powered by 
-<a href="http://getnikola.com" rel="nofollow">Nikola</a>"""
+Contents &copy; {date} {author} {license} - 
+Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a>, 
+hosted at <a href="https://www.nearlyfreespeech.net"><img src="https://www.nearlyfreespeech.net/logos/nfsn80x15logo.gif" alt="NearlyFreeSpeech.NET"></a>"""
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
