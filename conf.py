@@ -175,12 +175,12 @@ TIMEZONE = "Europe/Amsterdam"
 #
 
 POSTS = (
-    ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.txt", "pages", "story.tmpl"),
     ("pages/*.rst", "pages", "story.tmpl"),
+    ("pages/*.txt", "pages", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
