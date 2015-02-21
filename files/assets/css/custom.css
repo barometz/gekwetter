@@ -40,3 +40,13 @@ table.personalia {
 table ul, table ol {
     padding-left: 1.5em;
 }
+
+.entry-summary {
+    /* To get the spacing between metadata and post content to match between front
+     * page and post page */
+    margin-top: 1em;
+}
+
+.metadata {
+    font-size: small;
+}

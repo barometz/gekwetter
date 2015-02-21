@@ -41,13 +41,23 @@ Contact_
 |quill|
 Email me! Twitter me!
 
+Experience_
+===========
+Something about things I've done.
+
 Education_
 ==========
+|mortarboard|
 Something about school & internship.
 
 Projects_
 =========
 Various projects I've worked on.
+
+Interests_
+==========
+|wrench|
+Stuff I like to do.
 
    
 .. |power| image:: /datasheet/power.png
@@ -60,4 +70,4 @@ Various projects I've worked on.
    :class: aside
 
 .. |wrench| image:: /datasheet/wrench.png
-   class: aside
+   :class: aside

@@ -1,6 +1,6 @@
 .. link: 
 .. description: In which we try to set Nikola up once again, and maybe even maintain it.
-.. tags: 
+.. tags: testing
 .. date: 2015/02/20 11:30:23
 .. title: Once more onto the barricades
 .. slug: once-more-onto-the-barricades
