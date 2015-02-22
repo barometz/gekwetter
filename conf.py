@@ -299,7 +299,9 @@ REDIRECTIONS = []
 DEPLOY_COMMANDS = [
     'rsync -av --delete --exclude=dl/ output/ barometz.name:/home/public',
     'git add -A',
-    'git commit && git push',
+# || true because I don't want the push to be skipped because I already committed 
+    'git commit || true',
+    'git push'
 ]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
