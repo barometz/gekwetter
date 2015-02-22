@@ -570,6 +570,7 @@ COMMENT_SYSTEM_ID = "blogometz"
 # if SITE_URL points to server root. The list is used to exclude resources from
 # /robots.txt and /sitemap.xml, and to inform search engines about /sitemapindex.xml.
 # ROBOTS_EXCLUSIONS = ["/archive.html", "/category/*.html"]
+ROBOTS_EXCLUSIONS = ["/dl/"]
 
 # Instead of putting files in <slug>.html, put them in
 # <slug>/index.html. Also enables STRIP_INDEXES
