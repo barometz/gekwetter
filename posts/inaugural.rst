@@ -24,7 +24,7 @@ me to get my thoughts about something organized.
 
 Tech
 ====
-For the technologically inclined, the blog runs on `Nikola
+For the technologically inclined, the site runs on `Nikola
 <http://getnikola.com>`_ 7.1, a static blog generator.  This means I get a
 bunch of automation, but none of the security problems of dynamically
 generated systems such as Wordpress.  Additionally, it's marginally cheaper to
