@@ -6,7 +6,7 @@
 .. description: The online resume of Dominic van Berkel
 .. type: text
 
-.. image:: /datasheet/power.png
+.. image:: /content-img/datasheet/power.png
    :class: aside
 
 Hi!  I'm Dominic.  I'm a general tinkerer with an academic focus on
@@ -67,7 +67,7 @@ Contact_
 ========
 .. Quill-and-ink image by Joan M. Borràs, CC-BY-SA / http://commons.wikimedia.org/wiki/File:Quill_and_ink.svg
 
-.. image:: /datasheet/quill.png
+.. image:: /content-img/datasheet/quill.png
    :class: aside
 
 Via email, you can contact me at `gekwetter@baudvine.net
@@ -101,7 +101,7 @@ well to any collaborative environment.
 Education_
 ==========
 
-.. image:: /datasheet/mortarboard.png
+.. image:: /content-img/datasheet/mortarboard.png
    :class: aside
 
 I am in my third year of the ICT & Technology program at Fontys ICT,
@@ -157,7 +157,7 @@ I've made.
 Interests_
 ==========
 
-.. image:: /datasheet/wrench.png
+.. image:: /content-img/datasheet/wrench.png
    :class: aside
 
 I enjoy making things, as well as repairing things that are broken.  Despite
