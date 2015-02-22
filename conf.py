@@ -426,6 +426,10 @@ DEPLOY_COMMANDS = [
 #     ("icon", "/icon_128x128.png", "128x128"),
 # }
 
+FAVICONS = {
+    ("icon", "/favicon.png", "64x64"),
+}
+
 # Show only teasers in the index pages? Defaults to False.
 INDEX_TEASERS = True
 
@@ -713,7 +717,9 @@ COPY_SOURCES = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+<!-- Sheep favicon (/favicon.png) made by Freepik (http://www.flaticon.com/authors/freepik), retrieved from http://www.flaticon.com/free-icon/sheep_1381 - licensed under Creative Commons Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/) -->
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
