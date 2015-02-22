@@ -7,25 +7,25 @@
 .. description: Why '?' is not a useful question.
 .. type: text
 
-Imagine the following conversation::
+Imagine the following conversation:
       
-   <Kate> So it turns out Torchlight II has an Engineer class
-   <Bob> ?
+   *Kate:* So it turns out Torchlight II has an Engineer class
+
+   *Bob:* ?
 
 Kate said something, and Bob asked a question about it.  Right?  Here's what
-Kate said next::
+Kate said next:
 
-  <Kate> Mostly DPS, with a bunch of technological tricks like spider mines
+  *Kate:* Mostly DPS, with a bunch of technological tricks like spider mines
 
-Actually, no.  What Kate really said was::
+Actually, no.  What Kate really said was:
 
-  <Kate> Yeah, they're going with four classes that are all different from
-         Torchlight I
+  *Kate:* Yeah, they're going with four classes that are all different from Torchlight I
 
-Or was it::
+Or was it:
     
-  <Kate> It's a game by Runic Games, a bunch of people there made Diablo II and
-         they're making something in the same vein
+  *Kate:* It's a game by Runic Games, a bunch of people there made Diablo II and
+  they're making something in the same vein
 
 .. note::
    I'll probably want an example from the real world, or at least something
