@@ -19,7 +19,8 @@ anyone wants to know who I am and what I'm interested in.  Additionally
 there's a blog - you're looking at it - where I hope to share projects I'm
 working on and hopefully insightful thoughts.  Topics of interest include
 (mis)communication, education and my current field of study, (embedded)
-programming.
+programming.  When my posts aren't interesting, at least they're an excuse for
+me to get my thoughts about something organized.
 
 Tech
 ====

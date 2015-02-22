@@ -56,3 +56,12 @@ ul.tags {
     margin-left: 0;
     padding-left: 0;
 }
+
+dd {
+    margin-left: 1em;
+}
+
+table.personalia td {
+    padding-bottom: 0.2em !important;
+    padding-top: 0.2em !important;
+}
