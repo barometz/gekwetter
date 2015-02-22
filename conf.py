@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Dominic van Berkel"  # (translatable)
 BLOG_TITLE = "Gekwetter"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://192.168.0.22:8000/"
+SITE_URL = "http://barometz.name/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 BASE_URL = SITE_URL
@@ -296,6 +296,11 @@ REDIRECTIONS = []
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
+DEPLOY_COMMANDS = [
+    'rsync -av --delete --exclude=dl/ output/ barometz.name:/home/public',
+    'git add -A',
+    'git commit && git push',
+]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
